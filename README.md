@@ -1,2 +1,2 @@
 # Projects
- Compilation of Machine Learning and Neural Network projects.
+A portfolio for Data Analysis and Machine Learning projects.
