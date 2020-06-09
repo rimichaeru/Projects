@@ -1,2 +1,2 @@
 # Projects
- Compilation of Data Analysis and Machine Learning projects.
+A portfolio for Data Analysis and Machine Learning projects.
